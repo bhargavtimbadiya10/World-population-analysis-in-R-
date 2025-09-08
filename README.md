@@ -35,4 +35,4 @@ This project is great for learning *data analysis, statistics, and visualization
 
 ### ⿢ Clone Project
 ```bash
-git clone https://github.com/bhargavtimbadiya10/w=World-population-analysis-in-R-.git 
+git clone https://github.com/bhargavtimbadiya10/World-population-analysis-in-R-.git 
